@@ -84,7 +84,7 @@ This project implements a Real-Time Operating System (RTOS) to automate the cont
 5. Power the system and observe the automated water flow control in action.
 
 ## Circuit Diagram
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](Circuit_Diagram.png)
 (Include the uploaded circuit image file here with the filename `circuit_diagram.png`.)
 
 ## Future Enhancements
@@ -100,6 +100,6 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 
 ## Contact
 For questions or feedback, please reach out to:
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Name**: Shruti Shukla
+- **Email**: shrutishukla182@gmail.com
+- **GitHub**: [shrutishukla1](https://github.com/shrutishukla1)
