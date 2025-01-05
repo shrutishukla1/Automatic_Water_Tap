@@ -12,15 +12,16 @@ This project implements a Real-Time Operating System (RTOS) to automate the cont
 - **Water Conservation**: Ensures water is only supplied when needed, reducing wastage.
 - **Scalable and Modular Design**: Can be extended to include additional features such as timed water flow or user usage tracking.
 
-## System Components
-- **Microcontroller**: 8051 microcontroller (or specify the exact one used).
-- **RTOS**: FreeRTOS (or any RTOS used in the project).
-- **Sensors**: Proximity or IR sensors to detect user presence.
-- **Actuators**: Solenoid valves for water control.
-- **Power Supply**: Standard regulated power supply for the system.
+## Components Required
+- **AT89S52 microcontroller development board**
+- **8051/AVR ISP Programmer**
+- **16x2 LCD Display**
+- **Infrared Sensor**
+- **L239D motor driver**
+- **Resistor (10kΩ)**
+- **Potentiometer**
 
 ## Technologies Used
-- **Programming Languages**: C/C++
 - **Development Tools**:
   - Keil IDE for firmware development.
   - Proteus for circuit simulation.
