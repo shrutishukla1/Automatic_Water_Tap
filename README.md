@@ -85,7 +85,7 @@ This project implements a Real-Time Operating System (RTOS) to automate the cont
 
 ## Circuit Diagram
 ![Circuit Diagram](Circuit_Diagram.png)
-(Include the uploaded circuit image file here with the filename `circuit_diagram.png`.)
+
 
 ## Future Enhancements
 - Add a timed flow feature to limit water usage per user.
